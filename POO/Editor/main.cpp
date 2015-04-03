@@ -10,7 +10,7 @@
 #include<QLineEdit>
 #include<QGridLayout>
 #include "editor.h"
-
+//solo es un comentario de pruebaaa para GITHUBB
 int main(int argc,char ** argv)
 {
 
